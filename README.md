@@ -1,4 +1,3 @@
-<img width="800" height="600" alt="ASCII-Table" src="https://github.com/user-attachments/assets/e5b3ba67-dd08-45f6-b498-a5a53c5da0f4" /><img width="1920" height="1080" alt="event app size (1)" src="https://github.com/user-attachments/assets/9c18c1de-1249-41ca-9561-1bc003606551" />
 
 # Code-A-Pookalam 🌸
 Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled from September 1–6, where tradition meets technology! 🌼
